@@ -3,11 +3,13 @@ A modern, full-featured Hospital Management System built using Streamlit, Python
 
 <h2>🚀 Features</h2>
 <h3>👨‍⚕️ Doctor Management</h3>
-  Add new doctors
-  Auto-generate Doctor ID
-  View all registered doctors
-  Department-based categorization
-  Experience & consultation fee tracking
+<ul>
+  <li>Add new doctors</li>
+  <li>Auto-generate Doctor ID</li>
+  <li>View all registered doctors</li>
+  <li>Department-based categorization</li>
+  <li>Experience & consultation fee tracking</li>
+</ul>
 
 <h3>🧑‍⚕️ Patient Management</h3>
   Add new patients with disease & admission details
