@@ -12,34 +12,48 @@ A modern, full-featured Hospital Management System built using Streamlit, Python
 </ul>
 
 <h3>🧑‍⚕️ Patient Management</h3>
-  Add new patients with disease & admission details
-  Automatic doctor suggestion based on disease department
-  View patient by Patient ID or Phone Number
-  Update patient details
-  Delete patient with confirmation
-  Bed allocation & tracking
+<ul>
+  <li>Add new patients with disease & admission details</li>
+  <li>Automatic doctor suggestion based on disease department</li>
+  <li>View patient by Patient ID or Phone Number</li>
+  <li>Update patient details</li>
+  <li>Delete patient with confirmation</li>
+  <li>Bed allocation & tracking</li>
+</ul>
 
 <h3>🧾 Smart Billing System</h3>
   Auto-calculated bill generation:
-  Doctor consultation fees
-  Hospital service charges
-  Bed charges (based on stay duration)
-  Generates downloadable PDF bills
-  Professional bill layout with hospital branding
+  <ul>
+    <li>Doctor consultation fees</li>
+    <li>Hospital service charges</li>
+    <li>Bed charges (based on stay duration)</li>
+    <li>Generates downloadable PDF bills</li>
+    <li>Professional bill layout with hospital branding</li>
+  </ul>
 
 <h3>📊 Analytics Dashboard</h3>
   Interactive dashboard with:
-  💰 Total Hospital Income
-  👨‍⚕️ Doctor-wise Income
-  🏥 Department-wise Income
-  🦠 Disease-wise Patient Count
-  Doctor-based filter system
-  Beautiful Altair visualizations
+  <ul>
+    <li>💰 Total Hospital Income</li>
+    <li>👨‍⚕️ Doctor-wise Income</li>
+    <li>🏥 Department-wise Income</li>
+    <li>🦠 Disease-wise Patient Count</li>
+    <li>Doctor-based filter system</li>
+    <li>Beautiful Altair visualizations</li>
+  </ul>
   
 <h3>🛠️ Tech Stack</h3>
-  Frontend: Streamlit
-  Backend: Python
-  Database: MySQL
-  Data Handling: Pandas
-  Visualization: Altair
-  PDF Generation: FPDF
+<ul>
+  <li>Frontend: Streamlit</li>
+  <li>Backend: Python</li>
+  <li>Database: MySQL</li>
+  <li>Data Handling: Pandas</li>
+  <li>Visualization: Altair</li>
+  <li>PDF Generation: FPDF</li>
+</ul>
+  
+  
+  
+  
+  
+  
