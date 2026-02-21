@@ -1,7 +1,7 @@
 # Hospital-Management-System-Python-SQL-Project
 A modern, full-featured Hospital Management System built using Streamlit, Python, and MySQL, designed to manage doctors, patients, billing, and hospital analytics through an interactive dashboard.
 
-##🚀 Features
+##🚀 Features##
 ###👨‍⚕️ Doctor Management
   Add new doctors
   Auto-generate Doctor ID
